@@ -1,0 +1,25 @@
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.exe.config
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.exe
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.pdb
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.xml
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.Resources.resources
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.UpdaterInterface.resources
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.vbproj.GenerateResource.Cache
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.exe
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.xml
+C:\Users\KingDGrizzle\AppData\Local\Temporary Projects\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.pdb
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.exe.config
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.exe
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.xml
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.pdb
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.exe
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.pdb
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.xml
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.Resources.resources
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.UpdaterInterface.resources
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.vbproj.GenerateResource.Cache
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.exe.manifest
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Debug\DiscordThemeUpdater.application
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.TrustInfo.xml
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.exe.manifest
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Debug\DiscordThemeUpdater.application

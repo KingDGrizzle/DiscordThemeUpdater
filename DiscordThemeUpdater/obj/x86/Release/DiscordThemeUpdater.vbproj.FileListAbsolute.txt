@@ -1,0 +1,15 @@
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Release\DiscordThemeUpdater.exe.config
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Release\DiscordThemeUpdater.exe
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Release\DiscordThemeUpdater.pdb
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Release\DiscordThemeUpdater.xml
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.Resources.resources
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.UpdaterInterface.resources
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.vbproj.GenerateResource.Cache
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.exe
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.xml
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.pdb
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Release\DiscordThemeUpdater.exe.manifest
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\bin\Release\DiscordThemeUpdater.application
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.TrustInfo.xml
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.exe.manifest
+D:\Projects\DiscordThemeUpdater\DiscordThemeUpdater\obj\x86\Release\DiscordThemeUpdater.application

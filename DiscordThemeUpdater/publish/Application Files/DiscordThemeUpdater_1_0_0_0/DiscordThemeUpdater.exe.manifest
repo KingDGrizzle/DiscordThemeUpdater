@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DiscordThemeUpdater.exe" version="1.0.0.0" publicKeyToken="c9898f9b1ad74ee6" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="app.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DiscordThemeUpdater" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="DiscordThemeUpdater.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DiscordThemeUpdater.exe" size="388608">
+      <assemblyIdentity name="DiscordThemeUpdater" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>b9u6ZTCDjZtzK61taG3XkLCoG8E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="app.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KhayEuZ37J7iylaN/M2v3s98abA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DiscordThemeUpdater.exe.config" size="1150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>acKdxQ2V+whqXvGAPYgvTA9sLQE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=KingDGrizzle-PC\KingDGrizzle" issuerKeyHash="9059f8e9a8afd99e02c25d0cbc224967813fdc78" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Q9INNjwMLMUQFpAB7H89yfw4io0=</DigestValue></Reference></SignedInfo><SignatureValue>e6SNdiUGJU/YvF0Ma/qw20/xmhMQYQ4Upz9nHL50n7qN/XVZ6qnqkULJdhHNmuhEUaAeDb9N58DfSFipXxumfdx+x5i89KxDyuxGlCdF89A1yzYVwP9IcsaEuWpTcrBUzdS1qcUZBrhmb7mhXpXAEXNlTLbOnmdzfsDvIl6FnOo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rFEhcmmLJ3/cKB1zI5WPvTN0iXZUPBBGg6sCvYdq3eJ4JUEk7+sSv+84L3WP8oh2D0vWewRlbvZ6e1hYcO4yFhzaVvU8wypQucGNkOXSw20axQstLjGTNNlD2PImfsxwzMLVi05cbG+ov9cNVsHWE5NlcPnUFiSkC1W6soI56WM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8d8a38fcc93d7fec01901610c52c0c3c360dd243" Description="" Url=""><as:assemblyIdentity name="DiscordThemeUpdater.exe" version="1.0.0.0" publicKeyToken="c9898f9b1ad74ee6" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KingDGrizzle-PC\KingDGrizzle</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qmpPNC525gm9hYJja0enpeDKiqo=</DigestValue></Reference></SignedInfo><SignatureValue>JwUrqLqG7iwzrCxk55LeN1FO5UZLdkU5wcZK60Qc21WJ3sOvsWDS1AuK7IrJSoxEUCNnUAC46GHcitQS2sNY4ae2I0bFWezI5gTQDp1cO1g0JtPgCA0X+3Lfl2wPGQk2D5C8cu5OC4OaBAsW1VGVL448sR37AsQVdnkCQiWN5us=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rFEhcmmLJ3/cKB1zI5WPvTN0iXZUPBBGg6sCvYdq3eJ4JUEk7+sSv+84L3WP8oh2D0vWewRlbvZ6e1hYcO4yFhzaVvU8wypQucGNkOXSw20axQstLjGTNNlD2PImfsxwzMLVi05cbG+ov9cNVsHWE5NlcPnUFiSkC1W6soI56WM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQEdUcKScCg71NP4l9KoZYWDANBgkqhkiG9w0BAQUFADBDMUEwPwYDVQQDHjgASwBpAG4AZwBEAEcAcgBpAHoAegBsAGUALQBQAEMAXABLAGkAbgBnAEQARwByAGkAegB6AGwAZTAeFw0xNjA3MjQxMTE0MzlaFw0xNzA3MjQxNzE0MzlaMEMxQTA/BgNVBAMeOABLAGkAbgBnAEQARwByAGkAegB6AGwAZQAtAFAAQwBcAEsAaQBuAGcARABHAHIAaQB6AHoAbABlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsUSFyaYsnf9woHXMjlY+9M3SJdlQ8EEaDqwK9h2rd4nglQSTv6xK/7zgvdY/yiHYPS9Z7BGVu9np7WFhw7jIWHNpW9TzDKlC5wY2Q5dLDbRrFCy0uMZM02UPY8iZ+zHDMwtWLTlxsb6i/1w1WwdYTk2Vw+dQWJKQLVbqygjnpYwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAFHavvwagqNiTUxFhbxNlSYYck11Ccg4w20p6wx62BsxIyJrYfRO63e9OrcGlz+u8MTOmcygisHxjW8lNplIBZnmiwzyWLoYeeji43iuRcG97s/iMvztNvNagFgatSf23OYdaacwBTzlM+dsDyru4D5T5bvO7iKVkatLexOdh3r4</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

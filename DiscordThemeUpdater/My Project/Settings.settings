@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="bg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://i.imgur.com/m8bYtkq.png</Value>
+    </Setting>
+    <Setting Name="description" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A raging, red theme with Customizable Colors &amp; Background!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
